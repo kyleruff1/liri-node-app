@@ -29,7 +29,7 @@ function UserInputs(userOption, inputParameter) {
 //Funtion for Music Info: Spotify
 function showSongInfo(inputParameter) {
     if (inputParameter === undefined) {
-        inputParameter = "The Sign"; //default Song
+        inputParameter = "smooth criminal"; //default Song
     }
     spotify.search(
         {

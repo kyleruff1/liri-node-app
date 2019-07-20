@@ -1118,3 +1118,143 @@ preview song: https://p.scdn.co/mp3-preview/716bce19276b193e2e937ce4da41855db007
 album: Thriller 25 Super Deluxe Edition
 artist(s): Michael Jackson
 *****************************
+**********SONG INFO*********
+0
+song name: Smooth Criminal
+preview song: null
+album: Anthology
+artist(s): Alien Ant Farm
+*****************************
+**********SONG INFO*********
+1
+song name: Smooth Criminal - 2012 Remaster
+preview song: https://p.scdn.co/mp3-preview/8dcbe2702477ac98c7c711cbafcac43e10063949?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Bad 25th Anniversary
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+2
+song name: Smooth Criminal (Glee Cast Version) [feat. 2CELLOS (Sulic & Hauser)]
+preview song: https://p.scdn.co/mp3-preview/3e429399c01cc9516555bd5fad5f34675d6f1426?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Smooth Criminal (Glee Cast Version) [feat. 2CELLOS (Sulic & Hauser)]
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+3
+song name: Smooth Criminal - 2012 Remaster
+preview song: https://p.scdn.co/mp3-preview/8dcbe2702477ac98c7c711cbafcac43e10063949?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Bad (Remastered)
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+4
+song name: Smooth Criminal
+preview song: null
+album: Best Rock Ever
+artist(s): Alien Ant Farm
+*****************************
+**********SONG INFO*********
+5
+song name: Smooth Criminal
+preview song: https://p.scdn.co/mp3-preview/ec34674c8a0a5960131dbea601d12162b155350c?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: 2Cellos
+artist(s): 2CELLOS
+*****************************
+**********SONG INFO*********
+6
+song name: Smooth Criminal - Radio Edit
+preview song: https://p.scdn.co/mp3-preview/d9655e088afce603d1a25a2a47347d31a95922c2?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: The Essential Michael Jackson
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+7
+song name: Smooth Criminal
+preview song: https://p.scdn.co/mp3-preview/4646fff3d25250d783a85e75ce83ace5dff9eef1?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Smooth Criminal
+artist(s): Alien Ant Farm
+*****************************
+**********SONG INFO*********
+8
+song name: Smooth Criminal - Remastered Radio Edit
+preview song: https://p.scdn.co/mp3-preview/8629347e4e18a639c286252b3ee586b1363cb8ac?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Michael Jackson's This Is It
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+9
+song name: Smooth Criminal
+preview song: https://p.scdn.co/mp3-preview/ec34674c8a0a5960131dbea601d12162b155350c?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: 2Cellos
+artist(s): 2CELLOS
+*****************************
+**********SONG INFO*********
+10
+song name: Smooth Criminal - Radio Edit
+preview song: https://p.scdn.co/mp3-preview/7522d903e382658c8eb1bf58b6ff4f1430b3dca4?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Number Ones
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+11
+song name: Smooth Criminal
+preview song: null
+album: The Best Of Alien Ant Farm 20th Century Masters The Millennium Collection
+artist(s): Alien Ant Farm
+*****************************
+**********SONG INFO*********
+12
+song name: Smooth Criminal - Re-Recorded - LX Xander Remix
+preview song: https://p.scdn.co/mp3-preview/de03264db02b21aec656bb123591d2f1ca00428c?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Smooth Criminal - Re-Recorded LX Xander Remix
+artist(s): Alien Ant Farm
+*****************************
+**********SONG INFO*********
+13
+song name: Smooth Criminal - Immortal Version
+preview song: https://p.scdn.co/mp3-preview/6fb1644f290ef7935737b4e754467d078640e1d9?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Immortal
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+14
+song name: Smooth Criminal
+preview song: https://p.scdn.co/mp3-preview/b084de7eb6ec017deee914e4ba9070088bfdd3c8?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: All Year 10 Toes Down
+artist(s): J Rattz
+*****************************
+**********SONG INFO*********
+15
+song name: Smooth Criminal
+preview song: https://p.scdn.co/mp3-preview/d530cf1bc594b44c5ff73016cbee7ee1cd2f438a?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Red
+artist(s): Dallas String Quartet
+*****************************
+**********SONG INFO*********
+16
+song name: Smooth Criminal
+preview song: https://p.scdn.co/mp3-preview/c511f2b1c8990c3942b209518566099c60d1c497?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: XXX
+artist(s): Soldier Kidd
+*****************************
+**********SONG INFO*********
+17
+song name: Smooth Criminal (Metal Version)
+preview song: https://p.scdn.co/mp3-preview/9afedaec3158db6c4f5fd8aacca97f7707e3d384?cid=7cc0c19d8b2a48eca146a5006bc6c0d6
+album: Leo Metal, Vol. 19
+artist(s): Leo
+*****************************
+**********SONG INFO*********
+18
+song name: Smooth Criminal
+preview song: null
+album: Encore
+artist(s): David Garrett
+*****************************
+**********SONG INFO*********
+19
+song name: Smooth Criminal
+preview song: null
+album: 00s Rock
+artist(s): Alien Ant Farm
+*****************************
